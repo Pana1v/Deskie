@@ -6,7 +6,7 @@
 
 = Project: DESKIE
 
-This Project integrated Whsatsapp API, with the powerful and capable Arduino IoT platform.
+This Project integrated Whsatsapp API, with the powerful and capable Arduino IoT platform. Using the affordable NodeMCU Microcontrollers.
 You can configure this project to be able to control your gadgets or sense surrounding from anywhere in the world.
 Also includes Updates and alerts over your Whatsapp Number
 
@@ -47,7 +47,7 @@ Add the bill of the materials you need for this project.
 | ID | Part name      | Part number | Quantity
 | R1 | 10k Resistor   | 1234-abcd   | 10       
 | L1 | Red LED        | 2345-asdf   | 5        
-| A1 | Arduino Zero   | ABX00066    | 1        
+| A1 | NodeMCU        |      V0.9   | 1        
 |===
 
 
