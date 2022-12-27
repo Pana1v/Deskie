@@ -1,11 +1,5 @@
-:Author: PANAV
-:Email:
-:Date: 01/12/2022
-:Revision: version#
-:License: Public Domain
-
+Version 1.2.13
 = Project: DESK<E>
-![image](https://user-images.githubusercontent.com/63401208/209717345-1c1ca899-6737-43fd-bdfc-7cd3bc7a3d21.png)
 
 This Project integrated Whsatsapp API, with the powerful and capable Arduino IoT platform. Using the affordable NodeMCU Microcontrollers.
 You can configure this project to be able to control your gadgets or sense surrounding from anywhere in the world.
@@ -28,6 +22,7 @@ Assemble the circuit following the diagram layout.png attached to the sketch
 == Step 3: Load the code
 
 Upload the code contained in this sketch on to your board
+![image](https://user-images.githubusercontent.com/63401208/209717345-1c1ca899-6737-43fd-bdfc-7cd3bc7a3d21.png)
 
 === Folder structure
 
