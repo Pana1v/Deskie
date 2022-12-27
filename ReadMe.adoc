@@ -1,21 +1,20 @@
-:Author: PANAV44
+:Author: PANAV
 :Email:
 :Date: 01/12/2022
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: DESKIE
 
-Describe your project
+This Project integrated Whsatsapp API, with the powerful and capable Arduino IoT platform.
+You can configure this project to be able to control your gadgets or sense surrounding from anywhere in the world.
+Also includes Updates and alerts over your Whatsapp Number
 
 == Step 1: Installation
-Please describe the steps to install this project.
-
-For example:
-
-1. Open this file
-2. Edit as you like
-3. Release to the World!
+Unzip the Source Code Zip
+Configure your Arduino IOT Dashboard
+Set up your whatsapp API
+Set your Wi-fi Access point Credentials
 
 == Step 2: Assemble the circuit
 
@@ -29,7 +28,7 @@ Upload the code contained in this sketch on to your board
 
 ....
  sketch123                => Arduino sketch folder
-  ├── sketch123.ino       => main Arduino file
+  ├── Deskie.ino       => main Arduino file
   ├── schematics.png      => (optional) an image of the required schematics
   ├── layout.png          => (optional) an image of the layout
   └── ReadMe.adoc         => this file
