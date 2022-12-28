@@ -26,7 +26,6 @@ Assemble the circuit following the diagram layout.png attached to the sketch
 == Step 3: Load the code
 
 Upload the code contained in this sketch on to your board
-![image](https://user-images.githubusercontent.com/63401208/209717345-1c1ca899-6737-43fd-bdfc-7cd3bc7a3d21.png)
 
 
 
