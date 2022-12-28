@@ -34,14 +34,6 @@ Upload the code contained in this sketch on to your board
   └── ReadMe.adoc         => this file
 ....
 
-=== License
-This project is released under a {License} License.
-
-=== Contributing
-To contribute to this project please contact: 
-
-=== BOM
-Add the bill of the materials you need for this project.
 
 |===
 | ID | Part name      | Part number | Quantity
@@ -50,8 +42,3 @@ Add the bill of the materials you need for this project.
 | A1 | NodeMCU        |      V0.9   | 1        
 |===
 
-
-=== Help
-This document is written in the _AsciiDoc_ format, a markup language to describe documents. 
-If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
-or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
