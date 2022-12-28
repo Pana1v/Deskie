@@ -1,5 +1,5 @@
 Version 1.2.13
-= Project: DESK<E>
+= Project: DESK.E
 
 This Project integrated Whsatsapp API, with the powerful and capable Arduino IoT platform. Using the affordable NodeMCU Microcontrollers.
 You can configure this project to be able to control your gadgets or sense surrounding from anywhere in the world.
