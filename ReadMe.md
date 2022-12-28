@@ -13,6 +13,8 @@ Configure your Arduino IOT Dashboard
 Set up your whatsapp API
  ![image](https://user-images.githubusercontent.com/63401208/209717367-62f21405-fee5-4b45-afd9-5653de065a6a.png)
 
+
+
 Set your Wi-fi Access point Credentials
 
 == Step 2: Assemble the circuit
@@ -23,6 +25,8 @@ Assemble the circuit following the diagram layout.png attached to the sketch
 
 Upload the code contained in this sketch on to your board
 ![image](https://user-images.githubusercontent.com/63401208/209717345-1c1ca899-6737-43fd-bdfc-7cd3bc7a3d21.png)
+
+
 
 === Folder structure
 
